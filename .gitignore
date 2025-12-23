@@ -1,0 +1,10 @@
+# Executables
+*.exe
+*.out
+*.o
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
